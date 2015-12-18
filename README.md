@@ -45,6 +45,6 @@ if (history.isHistorySupported()) {
 ### Module Methods
 
 * **history.isHistorySupported()** returns true when `window.history` feature is supported by the environment.
-* **addEventListener** registes a new event.
-* **removeEventListener** unregistes a new event.
+* **addEventListener** registers a new event.
+* **removeEventListener** unregisters a new event.
 * **triggerEvent** triggers an event.
